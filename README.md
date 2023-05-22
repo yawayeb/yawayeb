@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst and web developer from Ghana, West Africa.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/realayeb" target="blank"><img src="https://img.shields.io/twitter/follow/ayequill?logo=twitter&style=for-the-badge" alt="realayeb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/realayeb" target="blank"><img src="https://img.shields.io/twitter/follow/REALAYEB?logo=twitter&style=for-the-badge" alt="realayeb" /></a> </p>
 </div>
 
 - 🌱 I’m currently learning **API'S**
